@@ -1,4 +1,4 @@
-# FTC_Zomato_Restaurants
+# Análise de dados para a Zomato Restaurants
 Projeto de Conclusão do Curso de Análise de Dados *Fast Track Course em Python* pela *Comunidade Data Science*
 ---
 **Problema de negócio**
