@@ -1,7 +1,7 @@
 # Análise de dados para a Zomato Restaurants
 Projeto de Conclusão do Curso de Análise de Dados - *Fast Track Course em Python* pela *Comunidade Data Science*
 <br>
-WebApp: https://zomato-restaurants.streamlit.app/
+Veja o WebApp [aqui](https://zomato-restaurants.streamlit.app/)
 ---
 ## **Problema de negócio**
 A Zomato é uma plataforma online de estreitamento das relações entre restaurantes e clientes, de modo que os clientes possam avaliar e encontrar suas experiências gastronômicas. Em 2015 a empresa estava rankeada em 99a colocação no Ranking Alexa.
